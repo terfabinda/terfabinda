@@ -120,7 +120,7 @@ Need a developer who **codes, writes, and thinks ahead**?
 Let’s build your next web app, mobile platform, or tech book — together.
 
 📧 **Email**: terfabinda@example.com  
-📱 **WhatsApp**: +234 XXX XXX XX XX  
+📱 **WhatsApp**: +234 807 085 03 17  
 💼 **LinkedIn**: [linkedin.com/in/terfabinda](https://linkedin.com/in/terfabinda)  
 📘 **Amazon Author Page**: [amazon.com/author/terfabinda](https://www.amazon.com/author/terfabinda)  
 🐙 **GitHub**: [github.com/terfabinda](https://github.com/terfabinda)
